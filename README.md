@@ -2,7 +2,7 @@
 
 ## I'm currently working as..
 - a frontend developer at NBC telemundo
-- a teacher's assitant at Wyncode Academy
+- a teacher's assistant at Wyncode Academy
 
 ## Skills
 -  🌐 React
