@@ -1,8 +1,7 @@
 ### Hi there 👋  
 
 ## I'm currently working as..
-- a frontend developer at NBC telemundo
-- a teacher's assistant at Wyncode Academy
+- a developer at Workload.ai
 
 ## Skills
 -  🌐 React
