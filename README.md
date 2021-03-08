@@ -1,7 +1,8 @@
 ### Hi there 👋  
 
 ## I'm currently working as..
-- a developer at Workload.ai
+- a developer for a startup at Workload.ai
+- a Software Developer at ProCom
 
 ## Skills
 -  🌐 React
