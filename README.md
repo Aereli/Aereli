@@ -2,7 +2,7 @@
 
 ## I'm currently working as..
 - a Frontend Developer for a startup at Workload.ai
-- a Software Developer at ProCom
+- a Software Developer at ProCom working for DOH (Department of Health)
 
 ## Skills
 -  🌐 React
