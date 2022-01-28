@@ -1,8 +1,7 @@
 ### Hi there 👋  
 
 ## I'm currently working as..
-- a Frontend Developer for a startup at Workload.ai
-- a Software Developer at ProCom working for DOH (Department of Health)
+- Software Engineer for Slalom
 
 ## Skills
 -  🌐 React
@@ -11,6 +10,3 @@
 - :art: HTML CSS SCSS
 - :space_invader: Node
 - :gem: git | github
-
-## About me
-- 📫 How to reach me: AereliOyanadel@gmail.com
