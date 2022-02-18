@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-## I'm currently working as..
+## I'm currently working as a..
 - Software Engineer for Slalom
 
 ## Skills
