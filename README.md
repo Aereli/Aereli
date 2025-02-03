@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
 ## I'm currently working as a..
-- Software Engineer for Slalom
+- Software Engineer for NBC Universal
 
 ## Skills
 -  🌐 React
