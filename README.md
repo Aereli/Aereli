@@ -1,11 +1,10 @@
 ### Hi there 👋  
 
-## I'm currently working as a..
-- Software Engineer for NBC Universal
+- I'm a Software Engineer at NBC Universal with Telemundo
+my other gihub: https://github.com/ericoyanadel-nbcuni
 
 ## Skills
--  🌐 React
-- :wolf: Javascript
+-  🌐 Typescript
 - :zap: Gatsby | Graphql 
 - :art: HTML CSS SCSS
 - :space_invader: Node
