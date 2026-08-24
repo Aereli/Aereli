@@ -1,6 +1,6 @@
 ### Hi there 👋  
 
-- I'm a Software Engineer at NBC Universal with Telemundo.
+- I'm a Software/Ai Engineer at NBC Universal with Telemundo.
 - My other gihub: https://github.com/ericoyanadel-nbcuni
 
 ## Skills
