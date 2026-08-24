@@ -1,7 +1,7 @@
 ### Hi there 👋  
 
-- I'm a Software Engineer at NBC Universal with Telemundo
-my other gihub: https://github.com/ericoyanadel-nbcuni
+- I'm a Software Engineer at NBC Universal with Telemundo.
+- My other gihub: https://github.com/ericoyanadel-nbcuni
 
 ## Skills
 -  🌐 Typescript
